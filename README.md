@@ -22,7 +22,7 @@
         <a href="https://linkedin.com/in/ravish-bisht-4a70b2250" target="blank"><img align="center"
                 src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
                 alt="https://www.linkedin.com/in/ravish-bisht-4a70b2250" height="30" width="40" /></a>
-        <a href="https://instagram.com/cykoravish" target="blank"><img align="center"
+        <a href="https://instagram.com/web________developer" target="blank"><img align="center"
                 src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
                 alt="cykoravish" height="30" width="40" /></a>
     </p>
