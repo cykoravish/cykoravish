@@ -22,10 +22,13 @@
 ![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)
 ![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
+![GitHub_Actions](https://img.shields.io/badge/GitHub_Actions-black?style=for-the-badge&logo=github-actions)
 ![Vercel](https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel)
 
 ### 🗄 Database
 ![MongoDB](https://img.shields.io/badge/MongoDB-black?style=for-the-badge&logo=mongodb)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-black?style=for-the-badge&logo=postgresql)
+![Redis](https://img.shields.io/badge/Redis-black?style=for-the-badge&logo=redis)
 
 ### 🤖 AI & Automation
 - LLM APIs (OpenAI, Claude)
@@ -35,6 +38,7 @@
 ### 🛠 Tooling
 ![Postman](https://img.shields.io/badge/Postman-black?style=for-the-badge&logo=postman)
 ![ESLint](https://img.shields.io/badge/ESLint-black?style=for-the-badge&logo=eslint)
+![Prettier](https://img.shields.io/badge/Prettier-black?style=for-the-badge&logo=prettier)
 
 
 # 🎯 Current Focus
@@ -43,7 +47,3 @@
 - Improving **DevOps workflows** (Docker, deployments, CI/CD)
 - Exploring **AI & LLM integration** for automation and productivity
 - Writing cleaner, scalable, and maintainable code
-
----
-*Always learning. Always building.*
-
