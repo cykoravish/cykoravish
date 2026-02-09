@@ -38,14 +38,7 @@
 
 # 📊 GitHub Activity
 
-<p align="center">
-  <a href="https://github.com/YOUR_USERNAME">
-    <img
-      src="https://github-readme-stats.vercel.app/api?username=cykoravish&show_icons=true&theme=dark&hide_border=true&rank_icon=github&cache_seconds=21600"
-      alt="GitHub Stats"
-    />
-  </a>
-</p>
+![cykoravish's GitHub stats](https://github-readme-stats.vercel.app/api?username=cykoravish&show_icons=true&theme=radical)
 
 # 🎯 Current Focus
 
