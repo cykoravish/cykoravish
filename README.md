@@ -36,10 +36,6 @@
 ![Postman](https://img.shields.io/badge/Postman-black?style=for-the-badge&logo=postman)
 ![ESLint](https://img.shields.io/badge/ESLint-black?style=for-the-badge&logo=eslint)
 
-# 📊 GitHub Activity
-
-![GitHub Stats](https://github-readme-stats.vercel.app)
-
 
 # 🎯 Current Focus
 
